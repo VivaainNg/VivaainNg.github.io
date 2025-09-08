@@ -1,5 +1,4 @@
-# Set theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -17,6 +16,7 @@ plugins:
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
+- jekyll-remote-theme
 - jemoji
 
 # Site settings
