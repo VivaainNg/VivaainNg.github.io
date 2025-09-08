@@ -1,3 +1,6 @@
+[![Deployment](https://github.com/VivaainNg/VivaainNg.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/VivaainNg/VivaainNg.github.io/actions/workflows/pages/pages-build-deployment)
+
+
 # vivaainng.github.io
 My personal blog
 
